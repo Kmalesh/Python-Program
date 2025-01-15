@@ -6,7 +6,7 @@ print("age:",age)
 print("marks:",marks)
 
 
-#   messorlly  five datatype used in python
+# mesuarly  five datatype used in python
 # int
 # string
 # float

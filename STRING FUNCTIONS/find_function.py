@@ -1,6 +1,6 @@
-s# find fuction 
+# find fuction 
 #it work to find a string index 
 
-tr="my name is kamaelsh kumar "
+str="my name is kamaelsh kumar "
 
 print(str.find("k")) 
