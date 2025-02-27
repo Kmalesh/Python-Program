@@ -3,3 +3,13 @@
 list=["kamalesh","dinesh","rahul","deepak"]
 list.sort()
 print("sorting string:",list)
+
+
+
+
+# pahle murgi aaya ya egg .proved the question
+
+#Ans:
+list1=["🪩","🐓"]
+list1.sort()
+print(list1)
